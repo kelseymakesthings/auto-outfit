@@ -1,0 +1,412 @@
+{
+  "tops": [
+    {
+      "name": "white button up",
+      "filename": "t1.jpg",
+      "attributes": {
+        "color": "white",
+        "loose": false,
+        "fancy": false,
+        "comfort": 3
+      }
+    },
+    {
+      "name": "aqua cutout top",
+      "filename": "t2.jpg",
+      "attributes": {
+        "color": "white",
+        "loose": false,
+        "fancy": true,
+        "comfort": 2
+      }
+    },
+    {
+      "name": "skye top",
+      "filename": "t3.jpg",
+      "attributes": {
+        "color": "white",
+        "loose": true,
+        "fancy": true,
+        "comfort": 2
+      }
+    },
+    {
+      "name": "evermore shirt",
+      "filename": "t4.jpg",
+      "attributes": {
+        "color": "white",
+        "loose": false,
+        "fancy": true,
+        "comfort": 2
+      }
+    },
+    {
+      "name": "naked picnic shirt",
+      "filename": "t5.jpg",
+      "attributes": {
+        "color": "multi",
+        "loose": false,
+        "fancy": false,
+        "comfort": 1
+      }
+    },
+    {
+      "name": "allsaints sweatshirt",
+      "filename": "t6.jpg",
+      "attributes": {
+        "color": "gray",
+        "loose": true,
+        "fancy": false,
+        "comfort": 3
+      }
+    },
+    {
+      "name": "muji sweater",
+      "filename": "t7.jpg",
+      "attributes": {
+        "color": "green",
+        "loose": false,
+        "fancy": false,
+        "comfort": 2
+      }
+    },
+    {
+      "name": "denim shirt",
+      "filename": "t8.jpg",
+      "attributes": {
+        "color": "blue",
+        "loose": true,
+        "fancy": false,
+        "comfort": 3
+      }
+    },
+    {
+      "name": "sheer ruched shirt",
+      "filename": "t9.jpg",
+      "attributes": {
+        "color": "black",
+        "loose": false,
+        "fancy": true,
+        "comfort": 2
+      }
+    },
+    {
+      "name": "madewell black shirt",
+      "filename": "t10.jpg",
+      "attributes": {
+        "color": "black",
+        "loose": false,
+        "fancy": false,
+        "comfort": 3
+      }
+    },
+    {
+      "name": "blue silk top",
+      "filename": "t11.jpg",
+      "attributes": {
+        "color": "blue",
+        "loose": false,
+        "fancy": true,
+        "comfort": 1
+      }
+    },
+    {
+      "name": "distressed man tee",
+      "filename": "t12.jpg",
+      "attributes": {
+        "color": "black",
+        "loose": false,
+        "fancy": false,
+        "comfort": 3
+      }
+    },
+    {
+      "name": "reformation crop top",
+      "filename": "t13.jpg",
+      "attributes": {
+        "color": "black",
+        "loose": false,
+        "fancy": true,
+        "comfort": 2
+      }
+    }
+  ],
+  "bottoms": [
+    {
+      "name": "levis gray jeans",
+      "filename": "b1.jpg",
+      "attributes": {
+        "color": "gray",
+        "loose": false,
+        "fancy": false,
+        "comfort": 2,
+        "warmth": 2
+      }
+    },
+    {
+      "name": "levis corduroy jeans",
+      "filename": "b2.jpg",
+      "attributes": {
+        "color": "red",
+        "loose": false,
+        "fancy": false,
+        "comfort": 3,
+        "warmth": 3
+      }
+    },
+    {
+      "name": "reformation skinny jeans",
+      "filename": "b3.jpg",
+      "attributes": {
+        "color": "black",
+        "loose": false,
+        "fancy": true,
+        "comfort": 2,
+        "warmth": 3
+      }
+    },
+    {
+      "name": "rag and bone jeans",
+      "filename": "b4.jpg",
+      "attributes": {
+        "color": "pink",
+        "loose": true,
+        "fancy": false,
+        "comfort": 2,
+        "warmth": 3
+      }
+    },
+    {
+      "name": "levis light blue jeans",
+      "filename": "b5.jpg",
+      "attributes": {
+        "color": "blue",
+        "loose": false,
+        "fancy": false,
+        "comfort": 2,
+        "warmth": 3
+      }
+    },
+    {
+      "name": "everlane ripped jeans",
+      "filename": "b6.jpg",
+      "attributes": {
+        "color": "jeanblue",
+        "loose": false,
+        "fancy": false,
+        "comfort": 2,
+        "warmth": 2
+      }
+    },
+    {
+      "name": "white corduroy jeans",
+      "filename": "b7.jpg",
+      "attributes": {
+        "color": "white",
+        "loose": false,
+        "fancy": true,
+        "comfort": 3,
+        "warmth": 2
+      }
+    },
+    {
+      "name": "beaufille skirt",
+      "filename": "b8.jpg",
+      "attributes": {
+        "color": "green",
+        "loose": true,
+        "fancy": true,
+        "comfort": 3,
+        "warmth": 1
+      }
+    },
+    {
+      "name": "madewell trousers",
+      "filename": "b9.jpg",
+      "attributes": {
+        "color": "black",
+        "loose": true,
+        "fancy": true,
+        "comfort": 3,
+        "warmth": 2
+      }
+    },
+    {
+      "name": "aritzia green pants",
+      "filename": "b10.jpg",
+      "attributes": {
+        "color": "green",
+        "loose": true,
+        "fancy": true,
+        "comfort": 2,
+        "warmth": 2
+      }
+    }
+  ],
+  "shoes": [
+    {
+      "name": "fancy boots",
+      "filename": "s1.jpg",
+      "attributes": {
+        "color": "white",
+        "fancy": true,
+        "comfort": 1
+      }
+    },
+    {
+      "name": "tall boots",
+      "filename": "s2.jpg",
+      "attributes": {
+        "color": "black",
+        "fancy": true,
+        "comfort": 2
+      }
+    },
+    {
+      "name": "keds",
+      "filename": "s3.jpg",
+      "attributes": {
+        "color": "white",
+        "fancy": false,
+        "comfort": 3
+      }
+    },
+    {
+      "name": "vince boots",
+      "filename": "s4.jpg",
+      "attributes": {
+        "color": "black",
+        "fancy": true,
+        "comfort": 2
+      }
+    },
+    {
+      "name": "timberlands",
+      "filename": "s5.jpg",
+      "attributes": {
+        "color": "white",
+        "fancy": false,
+        "comfort": 3
+      }
+    },
+    {
+      "name": "white leather sneakers",
+      "filename": "s6.jpg",
+      "attributes": {
+        "color": "white",
+        "fancy": false,
+        "comfort": 3
+      }
+    },
+    {
+      "name": "derby shoes",
+      "filename": "s7.jpg",
+      "attributes": {
+        "color": "white",
+        "fancy": true,
+        "comfort": 2
+      }
+    },
+    {
+      "name": "blue sneakers",
+      "filename": "s8.jpg",
+      "attributes": {
+        "color": "blue",
+        "fancy": false,
+        "comfort": 3
+      }
+    }
+  ],
+  "jackets": [
+    {
+      "name": "black leather jacket",
+      "filename": "j1.jpg",
+      "attributes": {
+        "color": "black",
+        "fancy": true,
+        "comfort": 2,
+        "warmth": 2
+      }
+    },
+    {
+      "name": "ann taylor jacket",
+      "filename": "j2.jpg",
+      "attributes": {
+        "color": "black",
+        "fancy": true,
+        "comfort": 3,
+        "warmth": 3
+      }
+    },
+    {
+      "name": "orange coat",
+      "filename": "j3.jpg",
+      "attributes": {
+        "color": "orange",
+        "fancy": true,
+        "comfort": 3,
+        "warmth": 2
+      }
+    },
+    {
+      "name": "white blazer jacket",
+      "filename": "j4.jpg",
+      "attributes": {
+        "color": "white",
+        "fancy": true,
+        "comfort": 3,
+        "warmth": 2
+      }
+    },
+    {
+      "name": "tan coat",
+      "filename": "j5.jpg",
+      "attributes": {
+        "color": "tan",
+        "fancy": true,
+        "comfort": 3,
+        "warmth": 3
+      }
+    },
+    {
+      "name": "gray coat",
+      "filename": "j6.jpg",
+      "attributes": {
+        "color": "gray",
+        "fancy": true,
+        "comfort": 2,
+        "warmth": 2
+      }
+    },
+    {
+      "name": "reformation graphic jacket",
+      "filename": "j7.jpg",
+      "attributes": {
+        "color": "multi",
+        "fancy": false,
+        "comfort": 3,
+        "warmth": 1
+      }
+    },
+    {
+      "name": "tan leather jacket",
+      "filename": "j8.jpg",
+      "attributes": {
+        "color": "tan",
+        "fancy": false,
+        "comfort": 2,
+        "warmth": 2
+      }
+    },
+    {
+      "name": "theory jacket",
+      "filename": "j9.jpg",
+      "attributes": {
+        "color": "white",
+        "fancy": false,
+        "comfort": 3,
+        "warmth": 1
+      }
+    }
+  ]
+}
